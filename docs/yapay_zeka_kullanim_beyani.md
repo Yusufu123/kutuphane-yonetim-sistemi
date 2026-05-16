@@ -2,7 +2,7 @@
 
 **Proje:** Kütüphane Yönetim Sistemi  
 **Geliştirici:** Yusuf Kıvrık  
-**Tarih:** 2025
+**Tarih:** 2026
 
 ---
 
