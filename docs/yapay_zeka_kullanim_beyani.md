@@ -22,7 +22,7 @@ Bu projede yapay zeka araçlarından yararlanılmıştır.
 
 ## Kullanım Kapsamı
 
-- Proje klasör yapısının ve temel sınıfların taslak olarak oluşturulmasında yapay zeka'dan yararlanılmıştır.
+- Proje klasör yapısının ve temel veri tabanı ve taslak olarak oluşturulmasında yapay zeka'dan yararlanılmıştır.
 - Oluşturulan taslaklar geliştirici tarafından incelenmiş, anlaşılmış ve gerekli yerlerde değiştirilmiştir.
 - Proje mantığı, test etme ve sunum tamamen geliştiriciye aittir.
 
@@ -31,5 +31,5 @@ Bu projede yapay zeka araçlarından yararlanılmıştır.
 ## Kapsam Dışı
 
 - Proje fikri geliştiriciye aittir.
-- Tüm kod satırları geliştirici tarafından okunmuş ve anlaşılmıştır.
-- Yapay zeka çıktısı birebir kopyalanmamış; uyarlanmış ve bütünleştirilmiştir.
+- Tüm kod satırları geliştirici tarafından yazılmıştır.
+- Yapay zeka kullanımı ise bazı gereklı verı tabanı ve işleyişi için kullanıldı.
