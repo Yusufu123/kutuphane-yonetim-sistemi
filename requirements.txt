@@ -1,0 +1,7 @@
+# Python 3.10+ gereklidir
+# Ekstra kütüphane kullanılmamıştır — yalnızca Python standart kütüphanesi kullanılmıştır.
+#
+# Kullanılan standart modüller:
+#   - datetime  : işlem tarihi ve saati
+#   - os        : klasör oluşturma, dosya yolu
+#   - json      : opsiyonel veri kalıcılığı için hazır

@@ -1,0 +1,17 @@
+KÜTÜPHANE RAPORU - 2026-05-16
+========================================
+Toplam Kitap : 5
+Toplam Üye  : 3
+Ödünçteki   : 1
+
+--- Kitap Listesi ---
+[978-1] Tutunamayanlar - Oğuz Atay (1972) | 1/2 kopya | Mevcut
+[978-2] İnce Memed - Yaşar Kemal (1955) | 3/3 kopya | Mevcut
+[978-3] Kürk Mantolu Madonna - Sabahattin Ali (1943) | 2/2 kopya | Mevcut
+[978-4] Sinekli Bakkal - Halide Edib Adıvar (1936) | 1/1 kopya | Mevcut
+[978-5] Yaprak Dökümü - Reşat Nuri Güntekin (1930) | 2/2 kopya | Mevcut
+
+--- Üye Listesi ---
+[U001] Ali Yılmaz | ali@email.com | Kayıt: 2026-05-11 | Ödünç: 1 kitap
+[U002] Ayşe Kaya | ayse@email.com | Kayıt: 2026-05-11 | Ödünç: 0 kitap
+[U003] Mehmet Demir | mehmet@email.com | Kayıt: 2026-05-11 | Ödünç: 0 kitap
