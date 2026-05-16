@@ -16,7 +16,7 @@ Bu projede yapay zeka araçlarından yararlanılmıştır.
 
 | Araç | Kullanım Amacı |
 |------|----------------|
-| Claude (Anthropic) | Kod iskeleti oluşturma, belge taslakları, hata ayıklama önerileri |
+| Claude (Anthropic) | belge taslakları, hata ayıklama önerileri |
 
 ---
 
